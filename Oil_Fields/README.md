@@ -24,4 +24,5 @@ geo_data_2.csv
 *numpy*,
 *matplotlib*,
 *seaborn*,
-*sklearn*
+*sklearn*,
+*bootstrap*

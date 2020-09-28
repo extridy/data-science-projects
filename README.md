@@ -4,5 +4,5 @@
 
 | Проект | Краткое описание | Используемые библиотеки и техники | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Отток клиентов из банка](Outflow_Customers) | Прогнозирование уходимости клиентов из банка в ближайшее время)| *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*|
+| [Отток клиентов из банка](Outflow_Customers) | Прогнозирование уходимости клиентов из банка в ближайшее время)| *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *One-Hot Encoding*, *Ordinal Encoding*, *upsampling*, *downsampling*|
 | [Оценка разработки месторождений](Oil_Fields) | Определение перспективного региона для разработки новых месторождений нефти)| *pandas*, *numpy*, *matplotlib*, *seaborn*, *sklearn*, *bootstrap*|
