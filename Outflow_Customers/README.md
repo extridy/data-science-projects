@@ -24,9 +24,14 @@
 
 Спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.
 
-## Используемые библиотеки
+## Используемые библиотеки и методы
+
 *pandas*,
 *numpy*,
 *matplotlib*,
 *seaborn*,
-*sklearn*
+*sklearn*,
+*One-Hot Encoding*,
+*Ordinal Encoding*,
+*upsampling*,
+*downsampling*
